@@ -2,8 +2,8 @@
 # Upgrade:  brew upgrade --cask flow
 # Generated from macos/packaging/flow.rb in the Flow source repo by `make release`; edit it there.
 cask "flow" do
-  version "0.3.0"
-  sha256 "444dd1fc73ef47c0a913ab819ec3734f85a1c276f7a78b7c908c12636cd2c423"
+  version "0.4.0"
+  sha256 "f5ecd4513b1fe57171e8306a03b3bb40ca1d94102074e91971c7d938a2407030"
 
   url "https://github.com/Schachte/homebrew-flow/releases/download/v#{version}/Flow-#{version}.dmg"
   name "Flow"
